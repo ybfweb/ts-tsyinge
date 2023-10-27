@@ -1,0 +1,11 @@
+{
+  "name": "wq2zkf--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@ngneat/elf": "^2.4.0",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "7.8.1",
+    "tsyringe": "^4.8.0"
+  }
+}
